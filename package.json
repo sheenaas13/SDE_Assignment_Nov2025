@@ -1,0 +1,6 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "main": "mergeTimeRanges.js",
+  "type": "commonjs"
+}
